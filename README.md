@@ -27,20 +27,15 @@ pip install pyautogui
 <ol>
     <li>
         <p><strong>Clone the repository:</strong></p>
-        <pre><code>git clone https://github.com/yourusername/eye-mouse-controller.git
-cd eye-mouse-controller
+        <pre><code>git clone https://github.com/GOUTHAM-2002/Eye_Mouse_Controller.git
 </code></pre>
     </li>
-    <li>
-        <p><strong>Install the dependencies:</strong></p>
-        <pre><code>pip install -r requirements.txt
-</code></pre>
-    </li>
+    
 </ol>
 
 <h3>Running the Project</h3>
 <p>To run the project, simply execute:</p>
-<pre><code>python eye_mouse_controller.py
+<pre><code>python3 main.py
 </code></pre>
 
 <h2>Usage</h2>
