@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Eye Mouse Controller</title>
+ 
 </head>
 <body>
 
